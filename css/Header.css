@@ -1,0 +1,14 @@
+
+nav{
+    background-color:teal;
+    position: fixed;
+    margin-top:0px;
+    width:100%;
+    z-index:1;
+    padding-bottom: 10px;
+}
+ a{
+    padding:2rem;
+    text-decoration: none;
+    color:white;
+ }
